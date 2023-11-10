@@ -29,4 +29,5 @@ npm run dev
 ```sh
 npm run build
 ```
-
+## Project Deployed Link
+https://expenzetracker.netlify.app/
