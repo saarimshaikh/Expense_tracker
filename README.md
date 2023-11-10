@@ -8,7 +8,9 @@ An expense tracker app built with Vue 3 and the composition API.
 - [Vue Toastification](https://github.com/Maronato/vue-toastification) for notifications
 - `<script setup>` syntax (Vue 3.2+)
 
-<img src="public/screen.png" width="400" />
+## Project Demo
+https://github.com/saarimshaikh/Expense_tracker/assets/65160026/f71ae9b0-459a-4c5f-9d04-bae42be5a956
+
 
 ## Project Setup
 
